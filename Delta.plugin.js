@@ -10,7 +10,7 @@
  * @updateUrl early none
  */
 
-class HideMe {
+class Delta {
     // Constructor
     constructor() {
         this.initialized = false;
